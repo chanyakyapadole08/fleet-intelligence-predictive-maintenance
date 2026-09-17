@@ -1,0 +1,9 @@
+route_id,origin,destination,distance_km,route_type
+R001,Nagpur,Pune,577,Highway
+R002,Nagpur,Mumbai,262,Urban
+R003,Pune,Nashik,390,Highway
+R004,Mumbai,Nashik,364,Highway
+R005,Nagpur,Indore,627,Highway
+R006,Pune,Aurangabad,596,Urban
+R007,Mumbai,Pune,706,Urban
+R008,Nagpur,Amravati,294,Urban
